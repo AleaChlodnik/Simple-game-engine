@@ -1,0 +1,3 @@
+/home/aleachlodnik/Simple-game-engine/build/CMakeFiles/engine.dir
+/home/aleachlodnik/Simple-game-engine/build/CMakeFiles/edit_cache.dir
+/home/aleachlodnik/Simple-game-engine/build/CMakeFiles/rebuild_cache.dir

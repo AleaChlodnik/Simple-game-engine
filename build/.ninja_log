@@ -1,0 +1,5 @@
+# ninja log v5
+3	217	1720460966404610550	CMakeFiles/engine.dir/Engine/src/glad.c.o	515e7be17ba7146c
+3	673	1720461234969172334	CMakeFiles/engine.dir/Engine/src/MainMenu.cpp.o	7b818cbe7f0b9312
+689	824	1720461349834225258	engine	8a6102c96fe8ad20
+2	689	1720461349701224039	CMakeFiles/engine.dir/Engine/src/Main.cpp.o	d6ced0f8bc97710b
