@@ -20,4 +20,12 @@ namespace Engine
                 return ("Failed to load GLAD");
             }
     };
+    class FileException : public std::exception
+    {
+        public:
+            const char *what() const noexcept override
+            {
+                return ("Failed to open file");
+            }
+    };
 }
